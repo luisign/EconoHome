@@ -1,4 +1,5 @@
-# EconoHome - Controle de Consumo de Energia Elétrica Residencial
+# EconoHome - Residential Electric Energy Consumption Control
+
 **(PT-BR - Brazilian Portuguese)** Projeto final do Curso de Capacitação em Sistemas Embarcados do IFRN - "EconoHome - Controle de Consumo de Energia Elétrica Residencial" monitora, coleta informações e usa classificações visuais e sonoras para consumo elétrico residencial (em kWh), com transmissão para o ThingSpeak. Firmware exclusivo para a placa BitDogLab.
 
 ## Componentes da placa BitDogLab que o projeto utiliza:
